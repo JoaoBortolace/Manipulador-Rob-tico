@@ -1,4 +1,4 @@
-# Manipulador-Rob-tico
+# Manipulador-Robótico
 Manipulador Robótico de 3 graus de liberdade desenvolvido para estudo
 
 # Projeto 
